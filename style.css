@@ -1,0 +1,16 @@
+.body{
+    background-color: white;
+
+}
+h1{
+    text-align:  center;
+    border: 2px solid grey;
+    margin:0px 200px 0px 200px;
+    border-radius: 100px;
+}
+
+/*
+padding-top
+padding-right
+padding-bottom
+padding-left*/
